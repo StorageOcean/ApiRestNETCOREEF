@@ -1,0 +1,14 @@
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\bin\Debug\netcoreapp2.2\VentasApiRestDemo.deps.json
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\bin\Debug\netcoreapp2.2\VentasApiRestDemo.runtimeconfig.json
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\bin\Debug\netcoreapp2.2\VentasApiRestDemo.runtimeconfig.dev.json
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\bin\Debug\netcoreapp2.2\VentasApiRestDemo.dll
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\bin\Debug\netcoreapp2.2\VentasApiRestDemo.pdb
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.csproj.CoreCompileInputs.cache
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.RazorAssemblyInfo.cache
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.RazorAssemblyInfo.cs
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.AssemblyInfoInputs.cache
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.AssemblyInfo.cs
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.RazorTargetAssemblyInfo.cache
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.dll
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.pdb
+C:\Users\vmatos\source\repos\VentasApiRestDemo\VentasApiRestDemo\obj\Debug\netcoreapp2.2\VentasApiRestDemo.csprojAssemblyReference.cache
